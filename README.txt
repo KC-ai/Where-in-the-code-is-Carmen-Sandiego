@@ -11,9 +11,8 @@ SUBMISSION INFORMATION
 ------------------------
 //CSCI 1300 Fall 2021
 // Author: Arnav Jain + Kashyap Challapalli
-//Recitation: 120 - Nikhith Sannidhi
 // Project 3
 ------------------------
 ABOUT THIS PROJECT
 ------------------------
-This project makes a hacker game
+This project makes a text based game based on the popular video game "Where in the code is Carmen Sandiego?"
